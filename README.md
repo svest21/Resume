@@ -36,10 +36,7 @@
       <p>
          I graduated from LIberty University in DEC. 14th, 2018 with a degree in IT: Web and Mobile Programming. Having  a job in my field that works out great for me, is what I want more then anything.Developing a career as a web developer/designer is what intrigus me more then anything. Being creative an adding my own touch is what suits me the most. I am learning more and more computer and programming languages all the time, on a daily basis.  I would love to improve my skills daily, so I can move from an entry-level, junior developer to an expert, senior developer. I understand that it will take time to get where I want to get, but I am up for the challenge and I have the time!
 
-       </p>  
-      </article><br>
-     </div>
-    </div>
+       
    </div><br>
    <div id="container">
      <div class="row">
